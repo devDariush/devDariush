@@ -46,4 +46,4 @@ These aren’t mine (yet), but they’re too good not to share:
 
 ## 📫 Connect with Me
 [![Website](https://img.shields.io/badge/Website-dariush.dev-blue?style=for-the-badge)](https://dariush.dev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dariush--Komeili-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/dariush-komeili-a44796232)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dariush--Komeili-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dariush-komeili-a44796232)
