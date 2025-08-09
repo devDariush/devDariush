@@ -17,6 +17,7 @@ When I’m not convincing code to run, I’m usually convincing myself that coff
 These aren’t mine (yet), but they’re too good not to share:  
 - [**All-jellyfin-media-server**](https://github.com/Morzomb/All-jellyfin-media-server) – I never pay for Netflix again (just kidding, I keep it *totally* legal!)
 - [**libmonero**](https://github.com/monerobuilders/libmonero) – Modern, easy-to-understand, fast Monero library
+- [**monero-suite**](https://github.com/hundehausen/monero-suite) – This tool generates a Docker Compose file for everything Monero-related
 - [**fastapi**](https://github.com/tiangolo/fastapi) – My current favorite Python backend framework  
 
 [**See More**](https://github.com/devDariush?tab=stars)
