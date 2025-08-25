@@ -1,3 +1,5 @@
+[![pgp](https://img.shields.io/badge/pgp-0xD47CC705-313131?style=flat&labelColor=545454&color=313131)](https://github.com/devDariush.gpg)
+[![profile views](https://komarev.com/ghpvc/?username=devDariush&style=flat&color=313131&label=views)](https://github.com/devDariush)
 # Hi there 👋
 This is Dariush – your friendly neighborhood bug whisperer and occasional compiler therapist.  
 When I’m not convincing code to run, I’m usually convincing myself that coffee counts as a meal.
@@ -36,15 +38,15 @@ These aren’t mine (yet), but they’re too good not to share:
 - **Editor**: VS Code + Neovim  
 - **Terminal**: fish shell because `ls` deserves color  
 - **Dotfiles**: A chaotic mix that somehow works
-
+<!--
 ---
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dariush&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dariush&layout=compact&theme=tokyonight)
-
+-->
 ---
 
 ## 📫 Connect with Me
-[![Website](https://img.shields.io/badge/Website-dariush.dev-blue?style=for-the-badge)](https://dariush.dev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dariush--Komeili-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dariush-komeili-a44796232)
+[![Website](https://img.shields.io/badge/Website-dariush.dev-blue?style=flat&labelColor=545454&color=313131)](https://dariush.dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dariush--Komeili-blue?style=flat&labelColor=545454&color=313131&logo=linkedin)](https://www.linkedin.com/in/dariush-komeili-a44796232)
